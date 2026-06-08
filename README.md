@@ -47,13 +47,17 @@ PromptQuery helps teams move faster without handing agents unrestricted database
 
 ## Demo Video
 
-Watch the PromptQuery demo video:
+The preview below can autoplay as an animated GIF on GitHub. Click it to watch the full CloudFront-hosted MP4 demo.
 
 <p align="center">
   <a href="https://d2w3mjcz3s3327.cloudfront.net/videos/prompt-query-demo.mp4">
-    <img src="assets/screenshots/app_screenshot.png" alt="Watch the PromptQuery demo video" width="900" />
+    <img src="assets/demo-preview.gif" alt="PromptQuery demo preview" width="900" />
   </a>
-</p>.
+</p>
+
+If the GIF preview is not available yet, use the full demo video link:
+
+[Watch the PromptQuery demo video](https://d2w3mjcz3s3327.cloudfront.net/videos/prompt-query-demo.mp4)
 
 ## Features
 
