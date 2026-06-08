@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="PromptQuery logo" width="96" />
 </p>
 
-<h1 align="center">PromptQuery</h1>
+<h1 align="center"><a href="https://www.promptquery.app">PromptQuery</a></h1>
 
 <p align="center">
   <strong>MCP-native database client for AI agents.</strong>
@@ -10,6 +10,10 @@
 
 <p align="center">
   Give Claude, Cursor, Codex, Windsurf, Github Copilot, Antigravity, OpenCode and other AI agents safe database access without losing control of production.
+</p>
+
+<p align="center">
+  <a href="https://www.promptquery.app">https://www.promptquery.app</a>
 </p>
 
 <p align="center">
@@ -47,17 +51,11 @@ PromptQuery helps teams move faster without handing agents unrestricted database
 
 ## Demo Video
 
-The preview below can autoplay as an animated GIF on GitHub. Click it to watch the full CloudFront-hosted MP4 demo.
-
 <p align="center">
   <a href="https://d2w3mjcz3s3327.cloudfront.net/videos/prompt-query-demo.mp4">
     <img src="assets/demo-preview.gif" alt="PromptQuery demo preview" width="900" />
   </a>
 </p>
-
-If the GIF preview is not available yet, use the full demo video link:
-
-[Watch the PromptQuery demo video](https://d2w3mjcz3s3327.cloudfront.net/videos/prompt-query-demo.mp4)
 
 ## Features
 
