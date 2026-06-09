@@ -5,11 +5,11 @@
 <h1 align="center"><a href="https://www.promptquery.app">PromptQuery</a></h1>
 
 <p align="center">
-  <strong>MCP-native database client for AI agents.</strong>
+  <strong>MCP-native database client for AI data analysis and database management.</strong>
 </p>
 
 <p align="center">
-  Give Claude, Cursor, Codex, Windsurf, Github Copilot, Antigravity, OpenCode and other AI agents safe database access without losing control of production.
+  Give Claude, Cursor, Codex, Windsurf, Github Copilot, Antigravity, OpenCode and other AI agents safe database access for analysis, reporting, and day-to-day database workflows without losing control of production.
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 ## What Is PromptQuery?
 
-PromptQuery is a modern desktop database client built for the AI-agent era.
+PromptQuery is a modern desktop database client built for AI-powered data analysis and database management in the AI-agent era.
 
-It lets you publish a database connection as a local MCP server so MCP-compatible tools and agents can query your database using natural language. Connections are read-only by default, and risky operations such as `DELETE`, `DROP`, and `UPDATE` require your explicit approval.
+It lets you publish a database connection as a local MCP server so MCP-compatible tools and agents can query your database, analyze data, generate reports, browse schemas, and assist with database management workflows using natural language. Connections are read-only by default, and risky operations such as `DELETE`, `DROP`, and `UPDATE` require your explicit approval.
 
 PromptQuery is designed for developers, database administrators, data analysts, and teams that want AI-assisted database workflows while keeping humans in control.
 
@@ -38,12 +38,14 @@ PromptQuery is designed for developers, database administrators, data analysts, 
 
 Traditional database clients were built for humans writing queries by hand. PromptQuery is built for a new workflow where humans, AI agents, and databases work together safely.
 
-With PromptQuery, you can connect SQL and NoSQL databases, expose them to MCP-compatible agents, generate reports from natural language, and keep sensitive operations behind explicit user approval.
+With PromptQuery, you can connect SQL and NoSQL databases, expose them to MCP-compatible agents, analyze data from natural language, generate reports, manage database workflows, and keep sensitive operations behind explicit user approval.
 
 PromptQuery helps teams move faster without handing agents unrestricted database access:
 
 - **One client for SQL and NoSQL**: Work with PostgreSQL, MySQL, SQL Server, Oracle, SQLite, MariaDB, MongoDB, Redis, DynamoDB, Firebase, Supabase, and more from one interface.
 - **MCP-native by design**: Publish database connections as MCP servers for Claude, Cursor, and other compatible AI tools.
+- **AI-powered data analysis**: Ask agents to explore data, generate SQL, analyze results, create charts, and turn findings into reports.
+- **Database management workflows**: Browse schemas, inspect tables, edit rows, import/export data, visualize relationships, and batch-commit changes from one app.
 - **Safe by default**: Let agents inspect, query, and reason over data while writes, deletes, and schema changes require approval.
 - **Human-in-the-loop control**: Review generated SQL, commands, reports, and risky operations before they touch your database.
 - **Built for real workflows**: Browse data, edit rows, generate reports, visualize schemas, import/export CSVs, and batch-commit changes.
@@ -71,6 +73,10 @@ Agents can inspect and query safely. Writes, deletes, and DDL operations are blo
 
 Let agents plan multi-step database workflows across SQL and NoSQL databases while keeping you in the loop.
 
+### AI Data Analysis
+
+Ask AI agents to explore your data, generate SQL, summarize results, identify trends, build charts, and turn database answers into shareable analysis.
+
 ### Natural-Language Reports
 
 Turn a single prompt into runnable SQL, interactive charts, and shareable reports generated from your own databases.
@@ -82,6 +88,10 @@ Turn a single prompt into runnable SQL, interactive charts, and shareable report
 ### Unified Database Interface
 
 Use one consistent interface across your databases for browsing schemas, running SQL, viewing results, editing rows, importing data, and exporting query results.
+
+### Database Management
+
+Manage day-to-day database workflows from one desktop app, including schema browsing, table inspection, row editing, CSV import/export, ER diagrams, and batch commits.
 
 ### ER Diagram
 
@@ -182,4 +192,3 @@ The application source code is not included in this repository.
 - Download: https://www.promptquery.app/#download
 - Issues: https://github.com/PromptQuery/PromptQuery/issues
 - Releases: https://github.com/PromptQuery/PromptQuery/releases
-
